@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVDP7FoSpr5pgLTXmK/Yb+pCemjF7AA2CsZsOJp1TKr7Xl34dnP812cW5EN4ibe1dsuDxd9fwoSuLeGfiIczpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\ASP\\MyAspNetCoreApp\\MyAspNetCoreApp\\MyAspNetCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
